@@ -1,5 +1,5 @@
 const okendoUserId = '2b5b8231-70cb-49e6-a5dc-922e8fd6820f';
-const productId = '8002714337544';
+const productId = '{{ product.id }}';
 const reviewsPerPage = 5;
 const orderBy = 'date desc';
 const locale = 'de';
